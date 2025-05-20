@@ -10,10 +10,10 @@ const HomePage: React.FC = () => {
       <section className="relative py-20 bg-gradient-to-b from-[#0075b3] to-[#0088cc] text-white text-center">
         <div className="container-custom text-center">
           <h1 className="text-3xl md:text-5xl font-bold text-white mb-6">
-            مرحباً بكم في منصة عائلة دي إكس إن  
+            مرحباً بكم في منصة مشروع شركة DXN          
           </h1>
           <p className="text-primary-100 text-lg md:text-xl max-w-3xl mx-auto">
-            وجهتكم الأولى للحصول على منتجات طبيعية وحلول صحية آمنة لحياة أفضل
+                        (حياة صحية وثراء مالي في آن واحد)                        
           </p>
         </div>
       </section>
